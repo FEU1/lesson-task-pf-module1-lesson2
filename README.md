@@ -1,6 +1,6 @@
 # Programming Foundations - Module 1
 
-## Lesson Task 2 Questions
+## Lesson Task 2 Answers
 
 Add all the answers to the `script.js` file.
 
